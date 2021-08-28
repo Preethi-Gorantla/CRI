@@ -5,7 +5,7 @@ const Award = () => {
 
     return (
       <div className="row mb-5 d-flex flex-row">
-        <img className="col-12 col-md-4 award-image" src={awardimg} alt="" />
+        <img className="col-12 col-md-3 award-image" src={awardimg} alt="" />
         <div className="col-12 col-md-8">
           <h6>
             C.R.I. PUMPS WINS THE NATIONAL ENERGY CONSERVATION AWARD 2018 for

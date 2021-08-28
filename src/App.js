@@ -7,7 +7,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div className="container-fluid">
-        <div className="col-12 App">
+        <div className="row App">
           <Header className="col-12" />
           <Award className="col-12" />
           <Products className="col-12" />
