@@ -4,7 +4,7 @@ import './Award.css';
 const Award = () => {
 
     return (
-      <div className="row mb-5">
+      <div className="row mb-5 d-flex flex-row">
         <img className="col-12 col-md-4 award-image" src={awardimg} alt="" />
         <div className="col-12 col-md-8">
           <h6>
